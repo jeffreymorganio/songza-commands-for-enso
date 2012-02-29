@@ -20,7 +20,4 @@ What To Do
 More Information
 ----------------
 
-Read the following article for more information:
-
-Implementing Songza Commands for Enso in Python
-[http://usabilityetc.com/articles/implementing-python-songza-commands-for-enso/](http://usabilityetc.com/articles/implementing-python-songza-commands-for-enso/)
+For more information, please read [Implementing Songza Commands for Enso in Python](http://usabilityetc.com/articles/implementing-python-songza-commands-for-enso/).
